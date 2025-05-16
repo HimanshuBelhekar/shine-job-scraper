@@ -83,7 +83,7 @@ shine-job-scraper-app/
 
 | 🧾 Form UI | ⏳ Loading Spinner | 📊 Results Table |
 |-----------|------------------|------------------|
-| ![](screenshots/form.png) | ![](screenshots/spinner.png) | ![](screenshots/results.png) |
+| ![image](https://github.com/user-attachments/assets/dea15048-b9c9-413c-a7c7-74a0d9f2c788) | ![image](https://github.com/user-attachments/assets/58c0f3b7-619c-4ed8-a042-b3721d7a6560) | ![image](https://github.com/user-attachments/assets/272f40f3-e70c-48c5-8eb6-20a23505f001)|
 
 ---
 
