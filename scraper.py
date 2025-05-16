@@ -9,7 +9,8 @@ import pandas as pd
 import time
 import os
 
-CHROMEDRIVER_PATH = "C:/Users/sayam/Downloads/chromedriver-win64/chromedriver-win64/chromedriver.exe"
+#Changed the chromedriver path
+CHROMEDRIVER_PATH = "./chromedriver/chromedriver.exe"
 
 def run_scraper(search_query, num_pages=1):
     options = Options()
